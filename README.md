@@ -1,4 +1,4 @@
-# 📝 Todo App
+# 📝 Todo App 
 
 A simple and responsive Todo application built with **React**, **TypeScript**, and **SCSS**.
 The app allows users to manage their daily tasks efficiently with features such as adding, editing, completing, and removing todos.
